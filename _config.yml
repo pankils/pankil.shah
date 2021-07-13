@@ -19,46 +19,54 @@ skills:
  - Project Management
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Technical Program Manager
+   start: 2015
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Estuate,Inc.
+   description: o Managed multiple strategic partner accounts globally averaging $1M in revenue along with new business development initiatives primarily in Cloud, Data Integration and Data Security. Grew accounts from ground up to $1M annually.
+o Led 10+ consulting engagements in 3 years from the pre-sales stage to successful delivery of the project in terms of scope, deliverables, budget, client satisfaction and achievement of required business outcomes.
+o Identified and led a cross-functional team to build integration solution around partner product solutions.
+ - title: Senior Consultant
+   start: 2013
+   end: 2014
+   employer: Estuate, Inc.
+   description: • Architected repeatable application retirement solution model for organizations to manage data archiving thus saving an average $150K in annual maintenance costs.
+• Guided organizations to institute best practices for obfuscating identifiable information in the financial services, retail, and healthcare domains helping them comply with PII and PCI security norms.
+ - title: Technical Product Manager
+   start: 2011
+   end: 2013
+   employer: Estuate, Inc.
+   description: 
+ - title: Senior Technical Lead
+   start: 2003
+   end: 2011
+   employer: Wipro Technologies
+   description: 
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Business Administration (M.B.A.)
+   date: 2017
+   subject: Global Management 
+   school: UCLA Anderson School of Management
+ - level: Master of Science (M.S.)
+   date: 2007
+   subject: Software Engineering
+   school: Birla Institute of Technology & Science, Pilani
 
 #This section is optional (as is the image link below)
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Functional Programming Principles in Scala
+    - title: AI for Everyone
       link: https://www.coursera.org/course/progfun
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
+    - title: Cost and Economics in Pricing Strategy
       link: https://www.coursera.org/specializations/algorithms
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2014
+#udemy:
 
 
 
