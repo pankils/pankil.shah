@@ -17,20 +17,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+
 
 
 
