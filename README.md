@@ -1,1 +1,1 @@
-## Resume + Portfolio from rob hinds repo ##
+## Resume + Portfolio from Rob Hinds Repo ##
