@@ -53,16 +53,16 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/28c8030e7ac8bf7b6a42cb72ee2f4755
    courses:
     - title: AI for Everyone
-      link: https://www.coursera.org/course/progfun
+      link: https://coursera.org/share/d9c60a17335e2d8d19e1b50c21f38f4a
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
+      date: March 06, 2019
     - title: Cost and Economics in Pricing Strategy
-      link: https://www.coursera.org/specializations/algorithms
+      link: https://coursera.org/share/46033606548581039e3c9e7d2bfb65f9
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      date: March 28, 2019
 #udemy:
 
 
